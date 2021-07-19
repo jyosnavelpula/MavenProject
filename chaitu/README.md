@@ -1,2 +1,0 @@
-# MavenProject
-Maven Project Practice
